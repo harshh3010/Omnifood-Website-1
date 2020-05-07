@@ -1,2 +1,2 @@
 # Omnifood-Website
-Here's the output : [Omnifood](https://github.com/harshh3010/MemeNNIT)
+Here's the output : [Omnifood-Website](https://harshh3010.github.io/Omnifood-Website/#)
